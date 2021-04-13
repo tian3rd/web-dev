@@ -83,7 +83,7 @@ pseudo-class:hover {
 
 ### Responsive Grid System Using [_Bootstrap_](https://getbootstrap.com)
 
-Use [codeplay](https://codeplay.com) to help visualize with Bootstrap.
+Use [codeply](https://codeply.com) to help visualize with Bootstrap.
 
 ```html
 <div class="row">
